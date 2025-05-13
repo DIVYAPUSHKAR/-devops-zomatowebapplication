@@ -1,4 +1,4 @@
-# steps too build project
+# steps to build project
 1. Launch an Instance (Ubuntu, 24.04, t2.large, 30 GB)
 
 2. Connect to the instance
