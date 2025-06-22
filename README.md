@@ -440,6 +440,5 @@ Click on "skip now" (If you want you can create the password)
 
 You will see the Grafana dashboard
 
-The first thing that we have to do in Grafana is to add the data source
-Lets add the data source;
+
 
